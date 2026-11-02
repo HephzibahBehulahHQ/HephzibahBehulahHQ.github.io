@@ -312,6 +312,13 @@ Each brand and product repository should maintain:
 
 ---
 
+## Repository Guidance
+
+- Agent instructions: [AGENTS.md](AGENTS.md)
+- Repository boundaries: [docs/repository-scope.md](docs/repository-scope.md)
+- Global AI-agent governance: [hb-AI-policy](https://github.com/HephzibahBehulahHQ/hb-AI-policy)
+- Visual tokens and shared components: [hb-design-system](https://github.com/HephzibahBehulahHQ/hb-design-system)
+
 ## 📬 Contact and Corporate Information
 
 **Company:** Hephzibah Behulah
